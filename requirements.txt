@@ -1,9 +1,5 @@
 streamlit
-
 google-generativeai
-
 python-dotenv
-
 langchain 
-
 pyPDF2
